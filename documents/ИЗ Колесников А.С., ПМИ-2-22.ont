@@ -1,0 +1,3070 @@
+{
+    "history": [
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:25:08Z",
+            "new_name": "Задача конвертации",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 9,
+            "old_name": "Конвертация",
+            "old_namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670516708
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:25:48Z",
+            "new_name": "Задача искусственного интеллекта",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 40,
+            "old_name": "Искусственный интеллект",
+            "old_namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670516748
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:26:16Z",
+            "new_name": "Задача распознавания речи",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 7,
+            "old_name": "Распознавание речи",
+            "old_namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670516776
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:26:57Z",
+            "new_name": "Задача компьютерного зрение",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 6,
+            "old_name": "Компьютерное зрение",
+            "old_namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670516817
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:34:24Z",
+            "node_id": 81,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670517264
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:34:36Z",
+            "new_name": "Метод эталонов",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 81,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670517276
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:34:41Z",
+            "node_id": 82,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670517281
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:34:42Z",
+            "new_name": "Метод дробящихся эталонов",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 82,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670517282
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:34:46Z",
+            "destination_id": 21,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 83,
+            "source_id": 81,
+            "timestamp": 1670517286
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:34:48Z",
+            "destination_id": 21,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 84,
+            "source_id": 82,
+            "timestamp": 1670517288
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:34:52Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 84,
+            "timestamp": 1670517292
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:34:56Z",
+            "node_id": 85,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670517296
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:34:56Z",
+            "destination_id": 85,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 86,
+            "source_id": 81,
+            "timestamp": 1670517296
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:34:58Z",
+            "destination_id": 85,
+            "name": "",
+            "namespace": "",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 86,
+            "source_id": 81,
+            "timestamp": 1670517298
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:34:58Z",
+            "name": "",
+            "namespace": "",
+            "node_id": 85,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1670517298
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:35:04Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 83,
+            "timestamp": 1670517304
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:35:33Z",
+            "node_id": 87,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670517333
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:35:49Z",
+            "new_name": "Метод ближайших соседей",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 87,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670517349
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:35:54Z",
+            "node_id": 88,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670517354
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:36:02Z",
+            "new_name": "Метод потенциальных функций",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 88,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670517362
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:36:10Z",
+            "destination_id": 21,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 89,
+            "source_id": 88,
+            "timestamp": 1670517370
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:36:12Z",
+            "destination_id": 21,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 90,
+            "source_id": 87,
+            "timestamp": 1670517372
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:36:14Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 90,
+            "timestamp": 1670517374
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:36:16Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 89,
+            "timestamp": 1670517376
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:37:53Z",
+            "node_id": 91,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670517473
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:37:58Z",
+            "new_name": "Метод оппозиций",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 91,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670517478
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:38:04Z",
+            "node_id": 92,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670517484
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:38:05Z",
+            "new_name": "метод дистрибутивного анализа",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 92,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670517485
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:38:12Z",
+            "new_name": "Метод дистрибутивного анализа",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 92,
+            "old_name": "метод дистрибутивного анализа",
+            "old_namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670517492
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:38:19Z",
+            "node_id": 93,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670517499
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:38:24Z",
+            "new_name": "Метод компонентного анализа",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 93,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670517504
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:38:30Z",
+            "node_id": 94,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670517510
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:38:45Z",
+            "new_name": "Контекстуальный метод",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 94,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670517525
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:38:49Z",
+            "destination_id": 23,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 95,
+            "source_id": 94,
+            "timestamp": 1670517529
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:38:51Z",
+            "destination_id": 23,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 96,
+            "source_id": 93,
+            "timestamp": 1670517531
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:38:53Z",
+            "destination_id": 23,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 97,
+            "source_id": 92,
+            "timestamp": 1670517533
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:38:55Z",
+            "destination_id": 23,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 98,
+            "source_id": 91,
+            "timestamp": 1670517535
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:38:58Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 98,
+            "timestamp": 1670517538
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:39:00Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 97,
+            "timestamp": 1670517540
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:39:03Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 96,
+            "timestamp": 1670517543
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:39:05Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 95,
+            "timestamp": 1670517545
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:56:15Z",
+            "node_id": 99,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670518575
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:56:32Z",
+            "new_name": "Задача принятия решения",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 99,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670518592
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:56:36Z",
+            "destination_id": 40,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 100,
+            "source_id": 99,
+            "timestamp": 1670518596
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:56:39Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 100,
+            "timestamp": 1670518599
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:58:49Z",
+            "node_id": 101,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670518729
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:58:56Z",
+            "new_name": "Задача автоматизации",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 101,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670518736
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:58:59Z",
+            "destination_id": 40,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 102,
+            "source_id": 101,
+            "timestamp": 1670518739
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T16:59:05Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 102,
+            "timestamp": 1670518745
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:00:29Z",
+            "node_id": 103,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670518829
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:00:43Z",
+            "new_name": "Постановка диагноза",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 103,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670518843
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:00:44Z",
+            "node_id": 104,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670518844
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:00:51Z",
+            "name": "",
+            "namespace": "",
+            "node_id": 104,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1670518851
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:01:21Z",
+            "name": "Постановка диагноза",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 103,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1670518881
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:07:33Z",
+            "node_id": 105,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670519253
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:07:36Z",
+            "new_name": "VHDL",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 105,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670519256
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:07:41Z",
+            "destination_id": 59,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 106,
+            "source_id": 105,
+            "timestamp": 1670519261
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:08:10Z",
+            "node_id": 107,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670519290
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:08:11Z",
+            "new_name": "SDL",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 107,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670519291
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:08:14Z",
+            "destination_id": 59,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 108,
+            "source_id": 107,
+            "timestamp": 1670519294
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:08:21Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 108,
+            "timestamp": 1670519301
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:08:24Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 106,
+            "timestamp": 1670519304
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:12:32Z",
+            "node_id": 109,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670519552
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:12:34Z",
+            "new_name": "Дерево поведения",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 109,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670519554
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:12:47Z",
+            "node_id": 110,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670519567
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:12:48Z",
+            "new_name": "Блок-схема",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 110,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670519568
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:13:00Z",
+            "node_id": 111,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670519580
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:13:03Z",
+            "new_name": "EEML",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 111,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670519583
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:13:43Z",
+            "node_id": 112,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670519623
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:13:45Z",
+            "new_name": "Go",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 112,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670519625
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:14:13Z",
+            "node_id": 113,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670519653
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:14:14Z",
+            "new_name": "Haskell",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 113,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670519654
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:14:23Z",
+            "node_id": 114,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670519663
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:14:26Z",
+            "new_name": "C",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 114,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670519666
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:14:34Z",
+            "destination_id": 63,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 66,
+            "source_id": 62,
+            "timestamp": 1670519674
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:14:38Z",
+            "destination_id": 114,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 115,
+            "source_id": 62,
+            "timestamp": 1670519678
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:14:42Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 115,
+            "timestamp": 1670519682
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:15:05Z",
+            "node_id": 116,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670519705
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:15:08Z",
+            "new_name": "Java",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 116,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670519708
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:15:09Z",
+            "node_id": 117,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670519709
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:15:11Z",
+            "new_name": "C#",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 117,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670519711
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:15:17Z",
+            "node_id": 118,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670519717
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:15:17Z",
+            "destination_id": 118,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 119,
+            "source_id": 116,
+            "timestamp": 1670519717
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:15:20Z",
+            "destination_id": 118,
+            "name": "",
+            "namespace": "",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 119,
+            "source_id": 116,
+            "timestamp": 1670519720
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:15:20Z",
+            "name": "",
+            "namespace": "",
+            "node_id": 118,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1670519720
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:15:45Z",
+            "node_id": 120,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670519745
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:15:52Z",
+            "new_name": "Интерпретируемый язык программирования",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 120,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670519752
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:16:29Z",
+            "node_id": 121,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670519789
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:16:32Z",
+            "new_name": "PHP",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 121,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670519792
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:16:33Z",
+            "node_id": 122,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670519793
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:16:36Z",
+            "new_name": "JavaScript",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 122,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670519796
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:16:37Z",
+            "node_id": 123,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670519797
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:16:39Z",
+            "new_name": "Python",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 123,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670519799
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:19:35Z",
+            "node_id": 124,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670519975
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:20:00Z",
+            "new_name": "Текстовый язык моделирования",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 124,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670520000
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:20:33Z",
+            "node_id": 125,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670520033
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-08T17:20:43Z",
+            "new_name": "Gellish Formal English",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 125,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670520043
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:27:43Z",
+            "destination_id": 55,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 126,
+            "source_id": 120,
+            "timestamp": 1670578063
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:27:47Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 126,
+            "timestamp": 1670578067
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:37:59Z",
+            "destination_id": 120,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 127,
+            "source_id": 122,
+            "timestamp": 1670578679
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:38:01Z",
+            "destination_id": 120,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 128,
+            "source_id": 123,
+            "timestamp": 1670578681
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:38:03Z",
+            "destination_id": 120,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 129,
+            "source_id": 121,
+            "timestamp": 1670578683
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:38:06Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 127,
+            "timestamp": 1670578686
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:38:08Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 128,
+            "timestamp": 1670578688
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:38:11Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 129,
+            "timestamp": 1670578691
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:41:39Z",
+            "destination_id": 120,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 130,
+            "source_id": 113,
+            "timestamp": 1670578899
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:41:41Z",
+            "destination_id": 63,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 131,
+            "source_id": 113,
+            "timestamp": 1670578901
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:41:44Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 130,
+            "timestamp": 1670578904
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:41:47Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 131,
+            "timestamp": 1670578907
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:41:54Z",
+            "destination_id": 63,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 132,
+            "source_id": 112,
+            "timestamp": 1670578914
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:41:57Z",
+            "destination_id": 63,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 133,
+            "source_id": 117,
+            "timestamp": 1670578917
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:41:59Z",
+            "destination_id": 63,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 134,
+            "source_id": 116,
+            "timestamp": 1670578919
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:42:01Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 132,
+            "timestamp": 1670578921
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:42:03Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 133,
+            "timestamp": 1670578923
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:42:06Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 134,
+            "timestamp": 1670578926
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:42:32Z",
+            "destination_id": 63,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 135,
+            "source_id": 114,
+            "timestamp": 1670578952
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:42:34Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 135,
+            "timestamp": 1670578954
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:45:49Z",
+            "new_name": "Golang",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 112,
+            "old_name": "Go",
+            "old_namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670579149
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T09:55:29Z",
+            "new_name": "Текстовый язык моделирования",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 124,
+            "old_name": "Текстовый язык моделирования",
+            "old_namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670579729
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:10:39Z",
+            "destination_id": 50,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 136,
+            "source_id": 124,
+            "timestamp": 1670580639
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:10:42Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 136,
+            "timestamp": 1670580642
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:10:45Z",
+            "destination_id": 124,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 137,
+            "source_id": 125,
+            "timestamp": 1670580645
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:10:49Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 137,
+            "timestamp": 1670580649
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:11:19Z",
+            "new_name": "Gellish",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 125,
+            "old_name": "Gellish Formal English",
+            "old_namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670580679
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:15:01Z",
+            "destination_id": 49,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 138,
+            "source_id": 111,
+            "timestamp": 1670580901
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:15:09Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 138,
+            "timestamp": 1670580909
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:18:01Z",
+            "destination_id": 49,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 139,
+            "source_id": 110,
+            "timestamp": 1670581081
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:18:04Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 139,
+            "timestamp": 1670581084
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:18:08Z",
+            "destination_id": 49,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 140,
+            "source_id": 109,
+            "timestamp": 1670581088
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:20:01Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 140,
+            "timestamp": 1670581201
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:21:10Z",
+            "node_id": 141,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670581270
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:21:36Z",
+            "new_name": "UMLConverter",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 141,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670581296
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:21:42Z",
+            "destination_id": 57,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 142,
+            "source_id": 141,
+            "timestamp": 1670581302
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:21:45Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 142,
+            "timestamp": 1670581305
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:31:44Z",
+            "node_id": 143,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670581904
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:31:45Z",
+            "new_name": "Файл формата .xmi",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 143,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670581905
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:31:56Z",
+            "node_id": 144,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1670581916
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:31:57Z",
+            "new_name": "Файл формата .jpeg, .png, webp",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 144,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670581917
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:32:25Z",
+            "destination_id": 143,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 145,
+            "source_id": 141,
+            "timestamp": 1670581945
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:33:59Z",
+            "new_name": "output",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 145,
+            "timestamp": 1670582039
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:35:11Z",
+            "destination_id": 141,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 146,
+            "source_id": 144,
+            "timestamp": 1670582111
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:35:16Z",
+            "new_name": "input",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 146,
+            "timestamp": 1670582116
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-09T10:46:43Z",
+            "new_name": "Метод искусственных нейронных сетей",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 19,
+            "old_name": "Искусственные нейронные сети",
+            "old_namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1670582803
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:26:26Z",
+            "node_id": 147,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1671438386
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:26:28Z",
+            "new_name": "Системное программное обеспечение",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 147,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1671438388
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:26:33Z",
+            "node_id": 148,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1671438393
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:26:35Z",
+            "new_name": "Прикладное программное обеспечение",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 148,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1671438395
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:26:40Z",
+            "destination_id": 57,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 142,
+            "source_id": 141,
+            "timestamp": 1671438400
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:26:40Z",
+            "destination_id": 57,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 79,
+            "source_id": 20,
+            "timestamp": 1671438400
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:26:41Z",
+            "destination_id": 58,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 71,
+            "source_id": 57,
+            "timestamp": 1671438401
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:26:41Z",
+            "name": "Компьютерная программа",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 57,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1671438401
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:26:55Z",
+            "destination_id": 58,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 149,
+            "source_id": 147,
+            "timestamp": 1671438415
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:26:59Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 149,
+            "timestamp": 1671438419
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:27:00Z",
+            "destination_id": 58,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 150,
+            "source_id": 148,
+            "timestamp": 1671438420
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:27:03Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 150,
+            "timestamp": 1671438423
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:27:12Z",
+            "destination_id": 148,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 151,
+            "source_id": 141,
+            "timestamp": 1671438432
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:27:14Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 151,
+            "timestamp": 1671438434
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:27:18Z",
+            "destination_id": 148,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 152,
+            "source_id": 20,
+            "timestamp": 1671438438
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:27:20Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 152,
+            "timestamp": 1671438440
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:30:16Z",
+            "node_id": 153,
+            "operation": "Node created",
+            "operation_type": "Do",
+            "timestamp": 1671438616
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:30:23Z",
+            "new_name": "Метод основанный на знаниях",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 153,
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1671438623
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:30:26Z",
+            "new_name": "Метод основанный на знаниях",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 153,
+            "old_name": "Метод основанный на знаниях",
+            "old_namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Node name changed",
+            "operation_type": "Do",
+            "timestamp": 1671438626
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:30:28Z",
+            "destination_id": 10,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 154,
+            "source_id": 153,
+            "timestamp": 1671438628
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:30:30Z",
+            "new_name": "is_a",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 154,
+            "timestamp": 1671438630
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:31:01Z",
+            "destination_id": 10,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 154,
+            "source_id": 153,
+            "timestamp": 1671438661
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:31:01Z",
+            "name": "Метод основанный на знаниях",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 153,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1671438661
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:31:29Z",
+            "destination_id": 9,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 155,
+            "source_id": 141,
+            "timestamp": 1671438689
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:31:38Z",
+            "new_name": "use_for",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 155,
+            "timestamp": 1671438698
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:32:20Z",
+            "destination_id": 19,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 156,
+            "source_id": 141,
+            "timestamp": 1671438740
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-19T08:32:32Z",
+            "new_name": "use",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 156,
+            "timestamp": 1671438752
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-20T09:32:58Z",
+            "destination_id": 2,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 41,
+            "source_id": 36,
+            "timestamp": 1671528778
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-20T09:32:58Z",
+            "name": "Визуализация данных",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 36,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1671528778
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-20T09:32:58Z",
+            "destination_id": 2,
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 47,
+            "source_id": 38,
+            "timestamp": 1671528778
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-20T09:32:58Z",
+            "name": "Технология",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 2,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1671528778
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-20T09:32:58Z",
+            "name": "Объектно-ориентированная технология",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "node_id": 38,
+            "operation": "Node removed",
+            "operation_type": "Do",
+            "timestamp": 1671528778
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-20T13:32:51Z",
+            "destination_id": 99,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 157,
+            "source_id": 10,
+            "timestamp": 1671543171
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-20T13:33:03Z",
+            "new_name": "use_for",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 157,
+            "timestamp": 1671543183
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-20T13:33:27Z",
+            "destination_id": 5,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 158,
+            "source_id": 18,
+            "timestamp": 1671543207
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-20T13:33:31Z",
+            "new_name": "use_for",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 158,
+            "timestamp": 1671543211
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-20T13:33:48Z",
+            "destination_id": 99,
+            "name": "use_for",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "operation": "Relation removed",
+            "operation_type": "Do",
+            "relation_id": 157,
+            "source_id": 10,
+            "timestamp": 1671543228
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-20T13:33:52Z",
+            "destination_id": 40,
+            "operation": "Relation created",
+            "operation_type": "Do",
+            "relation_id": 159,
+            "source_id": 10,
+            "timestamp": 1671543232
+        },
+        {
+            "author": "admin@gmail.com",
+            "datetime": "2022-12-20T13:33:55Z",
+            "new_name": "use_for",
+            "new_namespace": "http://knova.ru/user/1669891716760",
+            "old_name": "",
+            "old_namespace": "",
+            "operation": "Relation name changed",
+            "operation_type": "Do",
+            "relation_id": 159,
+            "timestamp": 1671543235
+        }
+    ],
+    "last_id": "159",
+    "namespaces": {
+        "default": "http://knova.ru/user/1669891716760",
+        "ontolis-avis": "http://knova.ru/ontolis-avis",
+        "owl": "http://www.w3.org/2002/07/owl",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema",
+        "xsd": "http://www.w3.org/2001/XMLSchema"
+    },
+    "nodes": [
+        {
+            "attributes": {
+            },
+            "id": "1",
+            "name": "Инструментальное средство",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1211.5,
+            "position_y": 456.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "3",
+            "name": "Задача",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 383.25,
+            "position_y": 231.25
+        },
+        {
+            "attributes": {
+            },
+            "id": "4",
+            "name": "Метод",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1188.25,
+            "position_y": 200
+        },
+        {
+            "attributes": {
+            },
+            "id": "5",
+            "name": "Распознавание",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 380,
+            "position_y": 343.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "6",
+            "name": "Задача компьютерного зрение",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 200.75,
+            "position_y": 428.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "7",
+            "name": "Задача распознавания речи",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 379.75,
+            "position_y": 425.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "8",
+            "name": "Задача OCR",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 561,
+            "position_y": 428
+        },
+        {
+            "attributes": {
+            },
+            "id": "9",
+            "name": "Задача конвертации",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 215.25,
+            "position_y": 288.25
+        },
+        {
+            "attributes": {
+            },
+            "id": "10",
+            "name": "Методы машинного обучения",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1317.75,
+            "position_y": 330.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "18",
+            "name": "Распознавание при помощи метрик",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1068.25,
+            "position_y": 333
+        },
+        {
+            "attributes": {
+            },
+            "id": "19",
+            "name": "Метод искусственных нейронных сетей",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1315.75,
+            "position_y": 391.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "20",
+            "name": "Нейронная сеть",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1635.25,
+            "position_y": 655.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "21",
+            "name": "Эвристические методы",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1546.75,
+            "position_y": 271.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "22",
+            "name": "Математические методы",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1187.75,
+            "position_y": 264.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "23",
+            "name": "Лингвистические методы",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 810.75,
+            "position_y": 271.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "32",
+            "name": "Расстояние Хемминга",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1061,
+            "position_y": 426.25
+        },
+        {
+            "attributes": {
+            },
+            "id": "34",
+            "name": "Расстояние Левенштейна",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1103.75,
+            "position_y": 394.75
+        },
+        {
+            "attributes": {
+            },
+            "id": "40",
+            "name": "Задача искусственного интеллекта",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 383.25,
+            "position_y": 291.25
+        },
+        {
+            "attributes": {
+            },
+            "id": "48",
+            "name": "UML",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 863,
+            "position_y": 719
+        },
+        {
+            "attributes": {
+            },
+            "id": "49",
+            "name": "Графический язык моделирования",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 936,
+            "position_y": 663
+        },
+        {
+            "attributes": {
+            },
+            "id": "50",
+            "name": "Язык моделирования",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 934,
+            "position_y": 575
+        },
+        {
+            "attributes": {
+            },
+            "id": "52",
+            "name": "XMI",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1213,
+            "position_y": 720.75
+        },
+        {
+            "attributes": {
+            },
+            "id": "53",
+            "name": "XML",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1210,
+            "position_y": 660
+        },
+        {
+            "attributes": {
+            },
+            "id": "55",
+            "name": "Язык программирования",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 498,
+            "position_y": 583.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "56",
+            "name": "Формальный язык",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 933,
+            "position_y": 506
+        },
+        {
+            "attributes": {
+            },
+            "id": "58",
+            "name": "Программное обеспечение",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1493,
+            "position_y": 505
+        },
+        {
+            "attributes": {
+            },
+            "id": "59",
+            "name": "Язык спецификации",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1213,
+            "position_y": 576
+        },
+        {
+            "attributes": {
+            },
+            "id": "60",
+            "name": "TLA+",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1149,
+            "position_y": 661
+        },
+        {
+            "attributes": {
+            },
+            "id": "62",
+            "name": "C++",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 510.25,
+            "position_y": 777.75
+        },
+        {
+            "attributes": {
+            },
+            "id": "63",
+            "name": "Компилируемый язык программирования",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 500,
+            "position_y": 660.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "81",
+            "name": "Метод эталонов",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1617.75,
+            "position_y": 328
+        },
+        {
+            "attributes": {
+            },
+            "id": "82",
+            "name": "Метод дробящихся эталонов",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1545.75,
+            "position_y": 418
+        },
+        {
+            "attributes": {
+            },
+            "id": "87",
+            "name": "Метод ближайших соседей",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1585.75,
+            "position_y": 356
+        },
+        {
+            "attributes": {
+            },
+            "id": "88",
+            "name": "Метод потенциальных функций",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1562.75,
+            "position_y": 386
+        },
+        {
+            "attributes": {
+            },
+            "id": "91",
+            "name": "Метод оппозиций",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 718.25,
+            "position_y": 429.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "92",
+            "name": "Метод дистрибутивного анализа",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 851.75,
+            "position_y": 337.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "93",
+            "name": "Метод компонентного анализа",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 823.75,
+            "position_y": 367.75
+        },
+        {
+            "attributes": {
+            },
+            "id": "94",
+            "name": "Контекстуальный метод",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 774,
+            "position_y": 400.25
+        },
+        {
+            "attributes": {
+            },
+            "id": "99",
+            "name": "Задача принятия решения",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 499.5,
+            "position_y": 344.25
+        },
+        {
+            "attributes": {
+            },
+            "id": "101",
+            "name": "Задача автоматизации",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 210.75,
+            "position_y": 345.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "105",
+            "name": "VHDL",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1314,
+            "position_y": 659
+        },
+        {
+            "attributes": {
+            },
+            "id": "107",
+            "name": "SDL",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1260,
+            "position_y": 657
+        },
+        {
+            "attributes": {
+            },
+            "id": "109",
+            "name": "Дерево поведения",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1059,
+            "position_y": 719
+        },
+        {
+            "attributes": {
+            },
+            "id": "110",
+            "name": "Блок-схема",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 971,
+            "position_y": 718
+        },
+        {
+            "attributes": {
+            },
+            "id": "111",
+            "name": "EEML",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 915,
+            "position_y": 719
+        },
+        {
+            "attributes": {
+            },
+            "id": "112",
+            "name": "Golang",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 556,
+            "position_y": 719.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "113",
+            "name": "Haskell",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 430,
+            "position_y": 719.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "114",
+            "name": "C",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 510,
+            "position_y": 718.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "116",
+            "name": "Java",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 696,
+            "position_y": 714.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "117",
+            "name": "C#",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 631,
+            "position_y": 718.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "120",
+            "name": "Интерпретируемый язык программирования",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 251,
+            "position_y": 658.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "121",
+            "name": "PHP",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 355,
+            "position_y": 718.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "122",
+            "name": "JavaScript",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 200,
+            "position_y": 719.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "123",
+            "name": "Python",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 282,
+            "position_y": 717.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "124",
+            "name": "Текстовый язык моделирования",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 741,
+            "position_y": 660
+        },
+        {
+            "attributes": {
+            },
+            "id": "125",
+            "name": "Gellish",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 742,
+            "position_y": 713
+        },
+        {
+            "attributes": {
+            },
+            "id": "141",
+            "name": "UMLConverter",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1500,
+            "position_y": 655
+        },
+        {
+            "attributes": {
+            },
+            "id": "143",
+            "name": "Файл формата .xmi",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1527.5,
+            "position_y": 722.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "144",
+            "name": "Файл формата .jpeg, .png, webp",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1323,
+            "position_y": 722.5
+        },
+        {
+            "attributes": {
+            },
+            "id": "147",
+            "name": "Системное программное обеспечение",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1359,
+            "position_y": 582
+        },
+        {
+            "attributes": {
+            },
+            "id": "148",
+            "name": "Прикладное программное обеспечение",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "position_x": 1579,
+            "position_y": 584
+        }
+    ],
+    "relations": [
+        {
+            "attributes": {
+            },
+            "destination_node_id": "3",
+            "id": "11",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "9"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "5",
+            "id": "14",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "6"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "5",
+            "id": "15",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "7"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "5",
+            "id": "16",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "8"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "4",
+            "id": "26",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "21"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "4",
+            "id": "27",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "23"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "4",
+            "id": "28",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "22"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "22",
+            "id": "31",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "18"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "18",
+            "id": "33",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "32"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "18",
+            "id": "35",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "34"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "40",
+            "id": "43",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "5"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "3",
+            "id": "44",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "40"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "22",
+            "id": "45",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "10"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "10",
+            "id": "46",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "19"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "49",
+            "id": "64",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "48"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "50",
+            "id": "65",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "49"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "59",
+            "id": "68",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "60"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "55",
+            "id": "70",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "63"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "56",
+            "id": "72",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "55"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "56",
+            "id": "73",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "50"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "56",
+            "id": "74",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "59"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "53",
+            "id": "75",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "52"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "59",
+            "id": "76",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "53"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "77",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "56"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "1",
+            "id": "78",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "58"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "21",
+            "id": "83",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "81"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "21",
+            "id": "84",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "82"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "21",
+            "id": "89",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "88"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "21",
+            "id": "90",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "87"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "23",
+            "id": "95",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "94"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "23",
+            "id": "96",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "93"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "23",
+            "id": "97",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "92"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "23",
+            "id": "98",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "91"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "40",
+            "id": "100",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "99"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "40",
+            "id": "102",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "101"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "59",
+            "id": "106",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "105"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "59",
+            "id": "108",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "107"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "114",
+            "id": "115",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "62"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "55",
+            "id": "126",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "120"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "120",
+            "id": "127",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "122"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "120",
+            "id": "128",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "123"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "120",
+            "id": "129",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "121"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "120",
+            "id": "130",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "113"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "63",
+            "id": "131",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "113"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "63",
+            "id": "132",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "112"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "63",
+            "id": "133",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "117"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "63",
+            "id": "134",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "116"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "63",
+            "id": "135",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "114"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "50",
+            "id": "136",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "124"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "124",
+            "id": "137",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "125"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "49",
+            "id": "138",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "111"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "49",
+            "id": "139",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "110"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "49",
+            "id": "140",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "109"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "143",
+            "id": "145",
+            "name": "output",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "141"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "141",
+            "id": "146",
+            "name": "input",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "144"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "58",
+            "id": "149",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "147"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "58",
+            "id": "150",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "148"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "148",
+            "id": "151",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "141"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "148",
+            "id": "152",
+            "name": "is_a",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "20"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "9",
+            "id": "155",
+            "name": "use_for",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "141"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "19",
+            "id": "156",
+            "name": "use",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "141"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "5",
+            "id": "158",
+            "name": "use_for",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "18"
+        },
+        {
+            "attributes": {
+            },
+            "destination_node_id": "40",
+            "id": "159",
+            "name": "use_for",
+            "namespace": "http://knova.ru/user/1669891716760",
+            "source_node_id": "10"
+        }
+    ],
+    "visualize_ont_path": ""
+}
